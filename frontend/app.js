@@ -4,7 +4,7 @@
  */
 
 // ============== Configuración ==============
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = 'https://analisisdsentimientos2026.onrender.com';
 let historyData = [];
 let currentBusiness = null;
 let currentCategory = 'all';
