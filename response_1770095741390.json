@@ -1,0 +1,514 @@
+{
+  "business_name": "Rimac Seguros",
+  "total_reviews": 50,
+  "sentiment_summary": {
+    "POS": 5,
+    "NEG": 43,
+    "NEU": 2
+  },
+  "average_rating": 1.6,
+  "reviews": [
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Lucciana Bellina",
+      "rating": 1,
+      "review_text": "Son una porquería, te hacen la vida imposible pidiéndote mil documentos y observándolos para desembolsar los seguros. A casi 3 meses de la muerte de mi padre no recibí un sol.  Llamas por teléfono y te dan fechas falsas, si llamas en la fecha que te dan te indican “sigue en proceso es lo único que tengo en el sistema”. MEDIOCRES",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:24",
+      "sentiment": "NEG",
+      "confidence": 0.9685
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Kanachary NoyaRao",
+      "rating": 3,
+      "review_text": "Mala experiencia con Rímac.\nEnvié todos los documentos de mi siniestro el 16 de octubre, incluyendo el examen etílico, y durante más de dos semanas nadie dio respuesta.\n\nEl 26/10, después de más de dos horas de llamadas, recién logré que revisaran mi expediente y levantaran la observación por “falta de documento”, cuando en realidad ya estaba entregado.\n\nAdemás, la app no permite hacer seguimiento del estado del siniestro, lo que genera una total falta de transparencia.\n\nPago mi seguro puntualmente y merezco un servicio serio, no indiferencia ni excusas. Muy decepcionado.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.9695
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Luz Angelica Palomino",
+      "rating": 1,
+      "review_text": "Pésimo servicio, no quieren activar mi poliza!! me exigen el informe policial a pesar que saben que este documento no me lo dan en la comisaria y que solo lo entregan a un juzgado!!, que tengo que gastar en un juicio para que activen mi seguro vehicular!, para que he comprado el seguro entonces!!, @Rimac de lo peor!",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.9809
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Mdp E",
+      "rating": 1,
+      "review_text": "Rimac seguros ss una basura para la anulacion de la poliza y no querer comfinuar con la poliza te meten floro que te van a llamar pero nunca lo hacen y te siguen cobrando la tarjeta. AVISO NO PONER SUS TARJETAS DE CREDITO O DEBITO EN LA APP PARA PAGOS PORQUE LIEGO NO TE DEJAN DE\nCOBRAR AUNQUE LES HAYAS DICHO QUE NO!!!!!",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.9656
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Mario Alexander Horna Espino",
+      "rating": 1,
+      "review_text": "No recomiendo contratar seguros con esta empresa por los siguientes motivos:\n\n- App deficiente.\n- Los débitos automáticos no funcionan.\n- Su línea telefónica es muy engorrosa y poco práctica.\n- El seguro de vida con retorno que tengo se desactivó automáticamente (tuve que llenar un formulario solicitando la reactivación, pérdida de tiempo y malestar).\n- Las exclusiones de sus pólizas (revisar atentamente lo que firman).",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.9718
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jose Ramos Hidalgo",
+      "rating": 1,
+      "review_text": "Mala atención, no hay forma de comunicarse con un asesor, la central solo te da opciones a escoger pero ninguna te comunica con una persona natural.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.9661
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jorge Lindo Pereda (lindopereda)",
+      "rating": 4,
+      "review_text": "Interesante edificio de oficinas premium ubicado entre las calles Las Begonias y Andrés Reyes en el distrito de San Isidro.\nCuenta en el primer nivel con la tienda Zara.\nEste edificio tiene una forma interesantes al tener dos cuerpos, el primero horizontal que ocupa la tienda Zara y el segundo volumen con una de las caras en diagonal.\nLa fachada de este edificio es de muro cortina de color negro que le da un toque sobrio a la edificación",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "POS",
+      "confidence": 0.7652
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Daska Boluarte Merino",
+      "rating": 2,
+      "review_text": "realmente para pagarte 5000 soles te hacen esperar 6 meses. que abuso.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.9627
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Carlos Luzquiños",
+      "rating": 1,
+      "review_text": "Mi seguro vehicular venció y la póliza se autorrenovo, el primer pago se venció debido a que no cuento con el soporte necesario del asesor sobre algunas dudas de la nueva póliza, que pasa si ocurre un siniestro con mi unidad? Rimac asume algo por la falta de asesoría o simplemente me quedo sin cobertura?.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "NEG",
+      "confidence": 0.8435
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Felipe Rojas Gutiérrez",
+      "rating": 5,
+      "review_text": "Compañia de seguros, bienestar EstarBien",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:25",
+      "sentiment": "POS",
+      "confidence": 0.5464
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Kanachary NoyaRao",
+      "rating": 3,
+      "review_text": "Mala experiencia con Rímac.\nEnvié todos los documentos de mi siniestro el 16 de octubre, incluyendo el examen etílico, y durante más de dos semanas nadie dio respuesta.\n\nEl 26/10, después de más de dos horas de llamadas, recién logré que revisaran mi expediente y levantaran la observación por “falta de documento”, cuando en realidad ya estaba entregado.\n\nAdemás, la app no permite hacer seguimiento del estado del siniestro, lo que genera una total falta de transparencia.\n\nPago mi seguro puntualmente y merezco un servicio serio, no indiferencia ni excusas. Muy decepcionado.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:27",
+      "sentiment": "NEG",
+      "confidence": 0.9695
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Mdp E",
+      "rating": 1,
+      "review_text": "Rimac seguros ss una basura para la anulacion de la poliza y no querer comfinuar con la poliza te meten floro que te van a llamar pero nunca lo hacen y te siguen cobrando la tarjeta. AVISO NO PONER SUS TARJETAS DE CREDITO O DEBITO EN LA APP PARA PAGOS PORQUE LIEGO NO TE DEJAN DE\nCOBRAR AUNQUE LES HAYAS DICHO QUE NO!!!!!",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:27",
+      "sentiment": "NEG",
+      "confidence": 0.9656
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Mario Alexander Horna Espino",
+      "rating": 1,
+      "review_text": "No recomiendo contratar seguros con esta empresa por los siguientes motivos:\n\n- App deficiente.\n- Los débitos automáticos no funcionan.\n- Su línea telefónica es muy engorrosa y poco práctica.\n- El seguro de vida con retorno que tengo se desactivó automáticamente (tuve que llenar un formulario solicitando la reactivación, pérdida de tiempo y malestar).\n- Las exclusiones de sus pólizas (revisar atentamente lo que firman).",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9718
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jorge Lindo Pereda (lindopereda)",
+      "rating": 4,
+      "review_text": "Interesante edificio de oficinas premium ubicado entre las calles Las Begonias y Andrés Reyes en el distrito de San Isidro.\nCuenta en el primer nivel con la tienda Zara.\nEste edificio tiene una forma interesantes al tener dos cuerpos, el primero horizontal que ocupa la tienda Zara y el segundo volumen con una de las caras en diagonal.\nLa fachada de este edificio es de muro cortina de color negro que le da un toque sobrio a la edificación",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "POS",
+      "confidence": 0.7652
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Katherine Vargas",
+      "rating": 5,
+      "review_text": "Lindo lugar, grupo de operaciones, puerta trasera despacho.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "POS",
+      "confidence": 0.7245
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Leslie Cabrera",
+      "rating": 1,
+      "review_text": "La peor aseguradora que brinda seguros de salud. Son unos estafadores y deberían de ver urgentemente que pasa con Rimac, llevo tiempo pagando un seguro y hasta el día de hoy no obtengo respuesta cuando quiero comunicarme. SON UNOS…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9725
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Gian Carlo Espinoza",
+      "rating": 1,
+      "review_text": "Son lo peor. Me vendieron un seguro de vida a cambio de desgravamen. Primero me engañaron diciendo que se descontaría del monto de hipoteca que pago cosa que nunca sucedió. Llame para reclamar y no me hicieron caso.…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9422
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Elsa Liseth Paucar Perez",
+      "rating": 1,
+      "review_text": "No contraten ningún seguro con esta empresa van a pasar un mal momento lo digo por experiencia.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9458
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Joel del Castillo",
+      "rating": 4,
+      "review_text": "Servicio de seguros sobre vida o vehícular, un lugar muy amplio y cómodo, la atención es con previa cita o te harán esperar por lo menos 2 o 3 horas",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEU",
+      "confidence": 0.6651
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "leslie Fabiola Rimachi Martinez",
+      "rating": 1,
+      "review_text": "Experimente Una Mala atención al cliente si quieres retirarte o anular tu póliza , sin embargo para vender son buenos .\nLos canales de atención al cliente no ayudan para nada en especial el wsp . Y…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9668
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "nicolle alexandra",
+      "rating": 1,
+      "review_text": "No recomiendo adquirir seguros con esta empresa ,su personal ante cualquier duda te deriva no están capacitados para responder a tus dudas porque no cuentan con la información,me canse de llamar y no brindan solución solo venden .",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9647
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jean Andre Gonzales Simon",
+      "rating": 5,
+      "review_text": "Oficinas de RIMAC Seguros, torre del parque 2, en primer piso además de la recepción se encuentran algunos locales comerciales.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEU",
+      "confidence": 0.8324
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "glice barreno",
+      "rating": 1,
+      "review_text": "Abstenerse de contratar seguro vehicular. Su servicio al cliente por todas las vias (telefónica, online) es el peor! Solo mal informan. Pague por todo el año adelantado no me dan el servicio que me fue ofrecido y tampoco quieren cubrirme un…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9667
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Carlos U C",
+      "rating": 1,
+      "review_text": "Las disculpas por el comentario, pero que pesimo servicio por parte de Rimac, tanto por seguro vehicular como por seguros de salud, piden cancelación y hace 1 mes no envian la poliza del seguro vehicular (como se paga las cuotas..) hay…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:28",
+      "sentiment": "NEG",
+      "confidence": 0.9761
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Leslie Cabrera",
+      "rating": 1,
+      "review_text": "La peor aseguradora que brinda seguros de salud. Son unos estafadores y deberían de ver urgentemente que pasa con Rimac, llevo tiempo pagando un seguro y hasta el día de hoy no obtengo respuesta cuando quiero comunicarme. SON UNOS ESTAFADORES\nEstoy en busca de una solución y hasta ahora sigo esperando.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:30",
+      "sentiment": "NEG",
+      "confidence": 0.9693
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Gian Carlo Espinoza",
+      "rating": 1,
+      "review_text": "Son lo peor. Me vendieron un seguro de vida a cambio de desgravamen. Primero me engañaron diciendo que se descontaría del monto de hipoteca que pago cosa que nunca sucedió. Llame para reclamar y no me hicieron caso.\nDespués tambien me dijeron que el primer pago era anual y luego seria mensual. Llegó el año y nuevamente me cobraron todo el año a mi tarjeta de crédito. Ahora intento llamar y su contestadora me manda a otras áreas y me indican que eso no lo ven ellos y que me llamarán y nunca sucede.\nPero claro para vender te llaman a cada rato.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:30",
+      "sentiment": "NEG",
+      "confidence": 0.9363
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "leslie Fabiola Rimachi Martinez",
+      "rating": 1,
+      "review_text": "Experimente Una Mala atención al cliente si quieres retirarte o anular tu póliza , sin embargo para vender son buenos .\nLos canales de atención al cliente no ayudan para nada en especial el wsp . Y los reclutadores de venta de póliza nunca explicaron completo los detalles del seguro . Infórmense bien en otros lados antes de comprar algo en Rimac .",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:30",
+      "sentiment": "NEG",
+      "confidence": 0.9577
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "glice barreno",
+      "rating": 1,
+      "review_text": "Abstenerse de contratar seguro vehicular. Su servicio al cliente por todas las vias (telefónica, online) es el peor! Solo mal informan. Pague por todo el año adelantado no me dan el servicio que me fue ofrecido y tampoco quieren cubrirme un siniestro reportado.  Es decir como ya está pagado el seguro se están quedando con mi dinero sin darme la cobertura que merezco y el producto que me fue ofrecido. En sus oficinas no cuentan con el libro de reclamaciones físico! Y me fue negado el derecho de hablar con el gerente administrativo a cargo el Sr. Mauricio Rubini.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9771
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Carlos U C",
+      "rating": 1,
+      "review_text": "Las disculpas por el comentario, pero que pesimo servicio por parte de Rimac, tanto por seguro vehicular como por seguros de salud, piden cancelación y hace 1 mes no envian la poliza del seguro vehicular (como se paga las cuotas..) hay asesores que te llaman y llaman solo para vender el servicio pero no le dan seguimiento de nada... ; uno trata de comunicarse con la compañia de seguros y la grabadora responde ¨que los agentes estan ocupados, hasta mas 30, 40, 1 hora para que atiendan las llamadas¨.....",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9699
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Karem Mayte",
+      "rating": 1,
+      "review_text": "En primer lugar , demoran demasiado en responder. La cuarentena ya se levantó hace varios meses y Rimac ha decidido no atender de manera presencial en ninguna de sus oficinas  . No se supone que se preocupan por el bienestar de sus…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9689
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Midori Hirose",
+      "rating": 1,
+      "review_text": "No recomiendo ningún seguro médico por largo tiempo.\nAl final terminan sacándote harto dinero y no lo amerita. El ahorro en general es de 10% es decir nada! Comparado con todo el dinero entregado y la pésima…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9405
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Daniel Accent Amayo Rabanal",
+      "rating": 5,
+      "review_text": "Es una empresa que requiere alto compromiso y se debe a que tiene como objetivos mejorar la calidad de servicio a sus clientes",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "POS",
+      "confidence": 0.8565
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "María Ganoza",
+      "rating": 1,
+      "review_text": "Es una tragedia hablar con la aseguradora imnora todo y no te hace caso , además te deja atu suerte, no le importa el asegurado, te lleva ala clínica y quieren que te bajes así no tengan quien te atienda porque la clínica no quiere ni verte…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9853
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Raul Paredes Albujar",
+      "rating": 1,
+      "review_text": "Rimac seguros como toda empresa que busca su beneficio.\nMe estaban cobrando si registrar mi placa. Cuando voy a desactivar el seguro contra todo riesgo... Me salen que tengo que tener una cita para que me atiendan...…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.8501
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jessica Romero",
+      "rating": 1,
+      "review_text": "No he usado aún el seguro...pero mi malestar fue al enterarme que este tipo de seguro no cubre atención por emergencia como me dijeron y por la cual decidí aceptarlo y fueron a 4 personas que nos afiliaron con la misma mentira  sino no lo…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9346
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Sebastián Chambergo",
+      "rating": 1,
+      "review_text": "Es una empresa que solo le importa el dinero, cero calidad humana.\n\nNo atienden, no dan un servicio rápido ni empático. Lo peor de todo es que se…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9833
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Fernando",
+      "rating": 1,
+      "review_text": "Pésimo, fui a la oficina a solicitar información que no me pudieron brindar ni vía web, ni vía telefónica, que me recomendaron solicitar de manera presencial, en donde la Srta de seguridad nisiquiera me brindo ningún tipo de orientación, ya…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9705
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Giuseppina Ghezzi",
+      "rating": 1,
+      "review_text": "Si bien es cierto que me atendieron rápido por no tener cita, la persona que me atendió poco empatica, cara de palo.. Impersonal.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9798
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Gabriela Naupari",
+      "rating": 1,
+      "review_text": "#Rimacseguros\nTodo va a estar peor... Denuncio públicamente la pésima atención por un siniestro vehicular registrado en agosto del 2022 (caso 3084739), por información…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:31",
+      "sentiment": "NEG",
+      "confidence": 0.9339
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Karem Mayte",
+      "rating": 1,
+      "review_text": "En primer lugar , demoran demasiado en responder. La cuarentena ya se levantó hace varios meses y Rimac ha decidido no atender de manera presencial en ninguna de sus oficinas  . No se supone que se preocupan por el bienestar de sus asegurados ? Eso es lo que venden ? Nos envían a hacer los pagos en los bancos haciendo grandes colas ya que no todos tenemos o utilizamos  los medios digitales a los que ellos nos quieren obligar !!! Pésimo su servicio al cliente",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9782
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Midori Hirose",
+      "rating": 1,
+      "review_text": "No recomiendo ningún seguro médico por largo tiempo.\nAl final terminan sacándote harto dinero y no lo amerita. El ahorro en general es de 10% es decir nada! Comparado con todo el dinero entregado y la pésima atención en las clínicas últimamente.\nOptar por planes directos dentro de las clínicas de su conveniencia, les sale más barato . Evalúen todas las opciones pero seguros desde terceros como Rimac Pacífico Mapfre, es una pérdida increíble de dinero!\nLes salió competencia, las mismas clínicas! Aquí todo es un negocio redondo y completo!",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9742
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "María Ganoza",
+      "rating": 1,
+      "review_text": "Es una tragedia hablar con la aseguradora imnora todo y no te hace caso , además te deja atu suerte, no le importa el asegurado, te lleva ala clínica y quieren que te bajes así no tengan quien te atienda porque la clínica no quiere ni verte  no te quieren prestar ninguna atención y  lo peor la ambulancia habla con la aseguradora  yo llamo y ya no contestan y al médico de la ambulancias a le exigen que ya nos deje, pagar dinero en pasar que tienes un seguro que te ayudará pero existe la parte cruel de l aseguradora que te tira te tira como un perro y no te das solución",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9849
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Raul Paredes Albujar",
+      "rating": 1,
+      "review_text": "Rimac seguros como toda empresa que busca su beneficio.\nMe estaban cobrando si registrar mi placa. Cuando voy a desactivar el seguro contra todo riesgo... Me salen que tengo que tener una cita para que me atiendan... Cuando llamas a los números de rimac nadie te contesta.\nNo sé los recomiendo 😡",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9649
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jessica Romero",
+      "rating": 1,
+      "review_text": "No he usado aún el seguro...pero mi malestar fue al enterarme que este tipo de seguro no cubre atención por emergencia como me dijeron y por la cual decidí aceptarlo y fueron a 4 personas que nos afiliaron con la misma mentira  sino no lo había aceptado  y entere después de 4 meses que he aportado y a la hora de necesitar me cayó la decepcion y peor mi póliza nunca me llego llame a la bróker que nos afilio y no respondía deje mensaje y hasta el día de hoy no se nada",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9578
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Sebastián Chambergo",
+      "rating": 1,
+      "review_text": "Es una empresa que solo le importa el dinero, cero calidad humana.\n\nNo atienden, no dan un servicio rápido ni empático. Lo peor de todo es que se paga una cantidad significativa para poder acceder a un buen servicio pero peor servicio que salud pública es lo que brindan. No recomiendo jamás que tengan seguro con esta empresa, mejor vayan a Mapfre.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.984
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Fernando",
+      "rating": 1,
+      "review_text": "Pésimo, fui a la oficina a solicitar información que no me pudieron brindar ni vía web, ni vía telefónica, que me recomendaron solicitar de manera presencial, en donde la Srta de seguridad nisiquiera me brindo ningún tipo de orientación, ya que por ahora no hay atención en las oficinas, entonces hasta ahora sigo sin poder contactar con el área correcta....",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9649
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Gabriela Naupari",
+      "rating": 1,
+      "review_text": "#Rimacseguros\nTodo va a estar peor... Denuncio públicamente la pésima atención por un siniestro vehicular registrado en agosto del 2022 (caso 3084739), por información incongruente de las coberturas de la póliza, siendo una falsa publicidad. Además el procurador en el momento de la atención indicó que el seguro vehicular cubría daño propio y haber permitido el pago informal al conductor de la combi afectado, y que después en su informe registró que dicho conductor se había dado a la fuga, y haber dejado a mis familiares desolados sin apoyo para la atención de una grúa. Posterior, demora en la aprobación del presupuesto del taller afiliado, que fue negado porque el plan no cubría daño propio, y sólo se rigen en la póliza adquirida, pero no admiten que sus pólizas son erróneas (en el ítem 1. Resumen de mi seguro, indican las coberturas que aplican según el plan vehicular; pero en \rel ítem 2. Detalle del seguro, colocan más coberturas como daño propio), siendo las clausulas ambiguas. Adicional, se realizó la anulación y devolución de póliza en diciembre 2022, y hasta la fecha no se ha realizado la devolución ya que se hizo un pago anual. Es desgastante, ya he presentado mi reclamo formal ante #Rimacseguros #DefensoriadelAsegurado y sólo el área de Siniestros Vehicular responde que la póliza no cubre daño propio, pero nadie responde por la pésima atención y falsa información del procurador, y por todo el malestar generado.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9717
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Andrés Luis Valverde Dávila",
+      "rating": 1,
+      "review_text": "Llame porque estabamos esperando a un motorizado, uno de sus asegurados me habia chocado y estabamos a la espera, me sorprendioque el motorizado indicara como declarar faltando a la verdad, toda vez que antes qu9llegara el indicado el…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.6011
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Eduardo Caceres",
+      "rating": 1,
+      "review_text": "Estoy tratando de llamar y me encuentro c9n una central telefónica llena de opciones que más complican la situación y exaspera te.  No recomiendo este seguro.",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9802
+    },
+    {
+      "business_name": "Rimac Seguros",
+      "username": "Jeane Camil “Mi prinss”",
+      "rating": 1,
+      "review_text": "Que pesima atención NUNCA CONTESTAN EL TELÉFONO deseo anular un seguro  vehicular que se devita automático y que supuestamente anule porque ya adquirí uno nuevo. PERO NADA aun me siguen devitando osea estoy pagando 2 seguros 😡. Quiero  que me devuelvan mi dinero del seguro que YA ANULE. CONTESTENNN ABRAN SU ATENCIÓN PRESENCIAL.…",
+      "source": "Google Maps",
+      "scraping_date": "2026-02-03 00:15:35",
+      "sentiment": "NEG",
+      "confidence": 0.9676
+    }
+  ],
+  "cached": false,
+  "cached_at": "2026-02-03T00:15:41.329646"
+}

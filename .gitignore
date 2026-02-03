@@ -1,0 +1,13 @@
+# Ignorar credenciales y archivos sensibles
+firebase-credentials.json
+.env
+*.pyc
+__pycache__/
+
+# Archivos de IDE
+.vscode/
+.idea/
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db

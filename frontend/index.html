@@ -1,0 +1,199 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Análisis de Sentimientos | NLP Dashboard</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+    <div class="app-container">
+        <!-- Header -->
+        <header class="header">
+            <div class="logo">
+                <span class="logo-icon">🔍</span>
+                <h1>Sentiment<span class="highlight">Analyzer</span></h1>
+            </div>
+            <p class="subtitle">Análisis de sentimientos con detección de bots y clasificación por rubro</p>
+        </header>
+
+        <!-- Main Content -->
+        <main class="main-content">
+            <!-- URL Input Section -->
+            <section class="url-input-section glass-card">
+                <h2 class="section-title">📍 Analizar Nuevo Negocio</h2>
+                <div class="url-input-group">
+                    <input type="text" id="urlInput" class="url-input"
+                        placeholder="Pega aquí el link de Google Maps del negocio...">
+                    <input type="text" id="businessNameInput" class="name-input"
+                        placeholder="Nombre del negocio (opcional)">
+                    <button id="analyzeUrlBtn" class="btn-primary">
+                        <span class="btn-icon">🚀</span>
+                        Analizar
+                    </button>
+                </div>
+                <p class="input-hint">Ejemplo: https://maps.google.com/place/Clínica+San+Gabriel</p>
+            </section>
+
+            <!-- Category Tabs -->
+            <section class="category-tabs-section">
+                <h2 class="section-title">📊 Análisis por Rubro</h2>
+                <div class="category-tabs" id="categoryTabs">
+                    <button class="category-tab active" data-category="all">
+                        <span class="tab-icon">📋</span>
+                        <span class="tab-label">Todos</span>
+                        <span class="tab-count" id="countAll">0</span>
+                    </button>
+                    <button class="category-tab" data-category="salud">
+                        <span class="tab-icon">🏥</span>
+                        <span class="tab-label">Salud</span>
+                        <span class="tab-count" id="countSalud">0</span>
+                    </button>
+                    <button class="category-tab" data-category="gastronomia">
+                        <span class="tab-icon">🍽️</span>
+                        <span class="tab-label">Gastronomía</span>
+                        <span class="tab-count" id="countGastronomia">0</span>
+                    </button>
+                    <button class="category-tab" data-category="hospedaje">
+                        <span class="tab-icon">🏨</span>
+                        <span class="tab-label">Hospedaje</span>
+                        <span class="tab-count" id="countHospedaje">0</span>
+                    </button>
+                    <button class="category-tab" data-category="retail">
+                        <span class="tab-icon">🛒</span>
+                        <span class="tab-label">Retail</span>
+                        <span class="tab-count" id="countRetail">0</span>
+                    </button>
+                    <button class="category-tab" data-category="educacion">
+                        <span class="tab-icon">🎓</span>
+                        <span class="tab-label">Educación</span>
+                        <span class="tab-count" id="countEducacion">0</span>
+                    </button>
+                </div>
+            </section>
+
+            <!-- Business Select (for filtered view) -->
+            <section class="controls-section glass-card">
+                <div class="control-group">
+                    <label for="businessSelect">Seleccionar Negocio del Historial</label>
+                    <select id="businessSelect" class="select-input">
+                        <option value="">-- Selecciona un negocio --</option>
+                    </select>
+                </div>
+                <button id="refreshBtn" class="btn-secondary">
+                    <span class="btn-icon">🔄</span>
+                    Actualizar
+                </button>
+            </section>
+
+            <!-- Stats Cards -->
+            <section class="stats-section">
+                <div class="stat-card glass-card">
+                    <div class="stat-icon positive">📝</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="totalReviews">0</span>
+                        <span class="stat-label">Total Reseñas</span>
+                    </div>
+                </div>
+                <div class="stat-card glass-card">
+                    <div class="stat-icon positive">😊</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="positiveCount">0</span>
+                        <span class="stat-label">Positivas</span>
+                    </div>
+                </div>
+                <div class="stat-card glass-card">
+                    <div class="stat-icon neutral">😐</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="neutralCount">0</span>
+                        <span class="stat-label">Neutrales</span>
+                    </div>
+                </div>
+                <div class="stat-card glass-card">
+                    <div class="stat-icon negative">😞</div>
+                    <div class="stat-info">
+                        <span class="stat-value" id="negativeCount">0</span>
+                        <span class="stat-label">Negativas</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Bot Detection Stats -->
+            <section class="bot-stats-section">
+                <h2 class="section-title">🤖 Detección de Bots</h2>
+                <div class="bot-stats-grid">
+                    <div class="bot-stat-card glass-card real">
+                        <div class="bot-stat-header">
+                            <span class="bot-icon">✅</span>
+                            <span class="bot-label">Reales</span>
+                        </div>
+                        <span class="bot-value" id="realCount">0</span>
+                        <span class="bot-percentage" id="realPercentage">0%</span>
+                    </div>
+                    <div class="bot-stat-card glass-card suspicious">
+                        <div class="bot-stat-header">
+                            <span class="bot-icon">⚠️</span>
+                            <span class="bot-label">Sospechosas</span>
+                        </div>
+                        <span class="bot-value" id="suspiciousCount">0</span>
+                        <span class="bot-percentage" id="suspiciousPercentage">0%</span>
+                    </div>
+                    <div class="bot-stat-card glass-card bot">
+                        <div class="bot-stat-header">
+                            <span class="bot-icon">🤖</span>
+                            <span class="bot-label">Probables Bots</span>
+                        </div>
+                        <span class="bot-value" id="botCount">0</span>
+                        <span class="bot-percentage" id="botPercentage">0%</span>
+                    </div>
+                </div>
+            </section>
+
+            <!-- Charts Section -->
+            <section class="charts-section">
+                <div class="chart-card glass-card">
+                    <h3 class="chart-title">Distribución de Sentimientos</h3>
+                    <canvas id="sentimentChart"></canvas>
+                </div>
+                <div class="chart-card glass-card">
+                    <h3 class="chart-title">Comparativa por Rubro</h3>
+                    <canvas id="comparisonChart"></canvas>
+                </div>
+            </section>
+
+            <!-- Reviews Section -->
+            <section class="reviews-section">
+                <h2 class="section-title">📋 Reseñas Analizadas</h2>
+                <div class="reviews-filters">
+                    <button class="filter-btn active" data-filter="all">Todas</button>
+                    <button class="filter-btn" data-filter="positive">Positivas</button>
+                    <button class="filter-btn" data-filter="neutral">Neutrales</button>
+                    <button class="filter-btn" data-filter="negative">Negativas</button>
+                    <button class="filter-btn bot-filter" data-filter="bot">🤖 Solo Bots</button>
+                </div>
+                <div class="reviews-container" id="reviewsContainer">
+                    <p class="loading-text">Ingresa una URL o selecciona un negocio del historial...</p>
+                </div>
+            </section>
+        </main>
+
+        <!-- Footer -->
+        <footer class="footer">
+            <p>NLP - Análisis de Sentimientos | Evaluación Parcial 2026</p>
+        </footer>
+    </div>
+
+    <!-- Loading Overlay -->
+    <div class="loading-overlay" id="loadingOverlay">
+        <div class="loading-spinner"></div>
+        <p>Analizando...</p>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+
+</html>

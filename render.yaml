@@ -1,0 +1,21 @@
+# Configuración para Render
+
+services:
+  # Backend FastAPI
+  - type: web
+    name: sentiment-api
+    runtime: python
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: FIREBASE_CREDENTIALS_JSON
+        sync: false  # Configurar manualmente en Render Dashboard
+    plan: free
+    rootDir: backend
+
+  # Frontend Static
+  - type: web
+    name: sentiment-dashboard
+    runtime: static
+    staticPublishPath: ./frontend
+    plan: free
