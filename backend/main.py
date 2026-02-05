@@ -86,7 +86,7 @@ async def analyze_url(request: AnalyzeRequest):
     Llama a la API del compañero, clasifica el rubro y guarda en historial.
     """
     # URL de la API del compañero (ya desplegada en Render)
-    COMPANION_API_URL = "https://modelscrappy.onrender.com/analyze"
+    COMPANION_API_URL = "https://modelscrappyv2.onrender.com/analyze"
     
     try:
         print(f"🔄 Llamando API del compañero con URL: {request.url}")
